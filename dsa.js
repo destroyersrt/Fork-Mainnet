@@ -52,7 +52,7 @@ var accounts;
 */
 
 
-// Adding both the spells
+// Adding the spells
 
 // These are just the Sample Spells
 // You can add any spell of your choice
